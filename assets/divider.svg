@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="6" viewBox="0 0 680 6" role="img" aria-label="divisória">
+<defs>
+<linearGradient id="g" x1="0" x2="1" y1="0" y2="0">
+<stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+<stop offset="0.5" stop-color="#22d3ee" stop-opacity="0.9"/>
+<stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+</linearGradient>
+</defs>
+<rect x="0" y="2.5" width="680" height="1" fill="url(#g)"/>
+</svg>
