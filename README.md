@@ -1,171 +1,151 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Banner noturno de Gustavo Lopreto com skyline neon e terminal hacker">
-</p>
-
-<h1 align="center">Gustavo Lopreto</h1>
-
-<p align="center">
-  <strong>Estudante de Segurança Cibernética</strong><br>
-  Pentest · Blue Team · Análise de Vulnerabilidades · Redes
+  <img src="assets/banner.svg" width="100%" alt="Gustavo Lopreto — Cybersecurity">
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gustavo-lopreto"><img src="https://img.shields.io/badge/LinkedIn-22d3ee?style=flat-square&labelColor=0c0f2b&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
-  <a href="https://github.com/GustavoLopreto"><img src="https://img.shields.io/badge/GitHub-22d3ee?style=flat-square&labelColor=0c0f2b&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;
-  <a href="mailto:gustavolopretoferreira@gmail.com"><img src="https://img.shields.io/badge/Email-22d3ee?style=flat-square&labelColor=0c0f2b&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/gustavo-lopreto"><img src="https://img.shields.io/badge/LinkedIn-f0f0f0?style=flat-square&labelColor=0a0a0a&logo=linkedin&logoColor=f0f0f0" alt="LinkedIn"></a>&nbsp;
+  <a href="https://github.com/GustavoLopreto"><img src="https://img.shields.io/badge/GitHub-f0f0f0?style=flat-square&labelColor=0a0a0a&logo=github&logoColor=f0f0f0" alt="GitHub"></a>&nbsp;
+  <a href="mailto:gustavolopretoferreira@gmail.com"><img src="https://img.shields.io/badge/Email-f0f0f0?style=flat-square&labelColor=0a0a0a&logo=gmail&logoColor=f0f0f0" alt="Email"></a>
 </p>
+
+<br>
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
+
+<br>
+
+<h2 align="center">About</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GustavoLopreto&style=flat-square&color=22d3ee&label=Visitantes" alt="Profile views">
+Estudante de Segurança Cibernética no SENAI SCS · Formatura dez/2027<br>
+Pentest · Análise de Vulnerabilidades · Blue Team · Redes<br><br>
+<em>Buscando estágio na área de cibersegurança</em>
 </p>
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
-
-## `> whoami` &nbsp; Sobre mim
-
-Estudante de **Segurança Cibernética** no SENAI de São Caetano do Sul (formatura dez/2027), com foco em **pentest**, **análise de vulnerabilidades** e **segurança de redes**. Transito entre o lado ofensivo e o defensivo: tanto encontrar e explorar falhas quanto entender como detectá-las e corrigi-las.
-
-Atualmente buscando **estágio na área de cibersegurança** para aplicar na prática o que estudo em laboratório.
+<br>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
 
-## `> ls skills/` &nbsp; Habilidades e Ferramentas
+<br>
 
-**Segurança Ofensiva**
+<h2 align="center">Skills</h2>
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-f472b6?style=flat-square&labelColor=0c0f2b&logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-f472b6?style=flat-square&labelColor=0c0f2b&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-f472b6?style=flat-square&labelColor=0c0f2b&logo=portswigger&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-f472b6?style=flat-square&labelColor=0c0f2b&logo=metasploit&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-f472b6?style=flat-square&labelColor=0c0f2b&logo=owasp&logoColor=white)
-![Scapy](https://img.shields.io/badge/Scapy-f472b6?style=flat-square&labelColor=0c0f2b&logo=python&logoColor=white)
+<p align="center"><strong>Offensive</strong></p>
 
-**Segurança Defensiva e Redes**
+<p align="center">
+<img src="https://img.shields.io/badge/Kali_Linux-f0f0f0?style=flat-square&labelColor=0a0a0a&logo=kalilinux&logoColor=f0f0f0" alt="Kali Linux">
+<img src="https://img.shields.io/badge/Nmap-f0f0f0?style=flat-square&labelColor=0a0a0a&logo=nmap&logoColor=f0f0f0" alt="Nmap">
+<img src="https://img.shields.io/badge/Burp_Suite-f0f0f0?style=flat-square&labelColor=0a0a0a&logo=portswigger&logoColor=f0f0f0" alt="Burp Suite">
+<img src="https://img.shields.io/badge/Metasploit-f0f0f0?style=flat-square&labelColor=0a0a0a&logo=metasploit&logoColor=f0f0f0" alt="Metasploit">
+<img src="https://img.shields.io/badge/OWASP-f0f0f0?style=flat-square&labelColor=0a0a0a&logo=owasp&logoColor=f0f0f0" alt="OWASP">
+<img src="https://img.shields.io/badge/Scapy-f0f0f0?style=flat-square&labelColor=0a0a0a&logo=python&logoColor=f0f0f0" alt="Scapy">
+</p>
 
-![Wireshark](https://img.shields.io/badge/Wireshark-22d3ee?style=flat-square&labelColor=0c0f2b&logo=wireshark&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-22d3ee?style=flat-square&labelColor=0c0f2b&logo=wazuh&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-22d3ee?style=flat-square&labelColor=0c0f2b&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-22d3ee?style=flat-square&labelColor=0c0f2b&logo=windows&logoColor=white)
+<p align="center"><strong>Defensive</strong></p>
 
-**Linguagens e Ferramentas**
+<p align="center">
+<img src="https://img.shields.io/badge/Wireshark-f0f0f0?style=flat-square&labelColor=0a0a0a&logo=wireshark&logoColor=f0f0f0" alt="Wireshark">
+<img src="https://img.shields.io/badge/Wazuh-f0f0f0?style=flat-square&labelColor=0a0a0a&logo=wazuh&logoColor=f0f0f0" alt="Wazuh">
+<img src="https://img.shields.io/badge/Linux-f0f0f0?style=flat-square&labelColor=0a0a0a&logo=linux&logoColor=f0f0f0" alt="Linux">
+<img src="https://img.shields.io/badge/Windows-f0f0f0?style=flat-square&labelColor=0a0a0a&logo=windows&logoColor=f0f0f0" alt="Windows">
+</p>
 
-![Python](https://img.shields.io/badge/Python-fcd34d?style=flat-square&labelColor=0c0f2b&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-fcd34d?style=flat-square&labelColor=0c0f2b&logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-fcd34d?style=flat-square&labelColor=0c0f2b&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-fcd34d?style=flat-square&labelColor=0c0f2b&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-fcd34d?style=flat-square&labelColor=0c0f2b&logo=docker&logoColor=white)
+<p align="center"><strong>Tools</strong></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-f0f0f0?style=flat-square&labelColor=0a0a0a&logo=python&logoColor=f0f0f0" alt="Python">
+<img src="https://img.shields.io/badge/Bash-f0f0f0?style=flat-square&labelColor=0a0a0a&logo=gnubash&logoColor=f0f0f0" alt="Bash">
+<img src="https://img.shields.io/badge/SQL-f0f0f0?style=flat-square&labelColor=0a0a0a&logo=mysql&logoColor=f0f0f0" alt="SQL">
+<img src="https://img.shields.io/badge/Git-f0f0f0?style=flat-square&labelColor=0a0a0a&logo=git&logoColor=f0f0f0" alt="Git">
+<img src="https://img.shields.io/badge/Docker-f0f0f0?style=flat-square&labelColor=0a0a0a&logo=docker&logoColor=f0f0f0" alt="Docker">
+</p>
+
+<br>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
 
-## `> cat projetos.md` &nbsp; Projetos em destaque
+<br>
 
-<table>
+<h2 align="center">Projects</h2>
+
+<br>
+
+<table align="center">
 <tr>
 <td width="50%" valign="top">
-
-### [simoc-nmap-vuln-reporter](https://github.com/GustavoLopreto/simoc-nmap-vuln-reporter)
-Automação Python que processa XML do Nmap e gera relatórios classificados por risco, com correlação CVE/CVSS.
-<br>
-`python` `nmap` `cvss` `owasp`
-
+<h3 align="center"><a href="https://github.com/GustavoLopreto/simoc-nmap-vuln-reporter">simoc-nmap-vuln-reporter</a></h3>
+<p align="center">Automação Python que processa XML do Nmap e gera relatórios classificados por risco com correlação CVE/CVSS.</p>
+<p align="center"><code>python</code> · <code>nmap</code> · <code>cvss</code></p>
 </td>
 <td width="50%" valign="top">
-
-### [cve-2025-54068-vuln-intel](https://github.com/GustavoLopreto/cve-2025-54068-vuln-intel)
-Inteligência de vulnerabilidade sobre RCE no Laravel Livewire: CVSS v4 do zero e priorização com EPSS/KEV.
-<br>
-`cve` `threat-intel` `cvss`
-
+<h3 align="center"><a href="https://github.com/GustavoLopreto/cve-2025-54068-vuln-intel">cve-2025-54068-vuln-intel</a></h3>
+<p align="center">Inteligência de vulnerabilidade sobre RCE no Laravel Livewire: CVSS v4 do zero e priorização com EPSS/KEV.</p>
+<p align="center"><code>cve</code> · <code>threat-intel</code> · <code>cvss</code></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### [bola-api-pentest-lab](https://github.com/GustavoLopreto/bola-api-pentest-lab)
-Pentest de autorização (BOLA – OWASP API Security) em laboratório autorizado, com dossiê e reteste.
-<br>
-`pentest` `api-security` `owasp`
-
+<h3 align="center"><a href="https://github.com/GustavoLopreto/bola-api-pentest-lab">bola-api-pentest-lab</a></h3>
+<p align="center">Pentest de autorização BOLA em laboratório autorizado com dossiê de metodologia e reteste.</p>
+<p align="center"><code>pentest</code> · <code>api-security</code> · <code>owasp</code></p>
 </td>
 <td width="50%" valign="top">
-
-### [network-observatory-incident-analysis](https://github.com/GustavoLopreto/network-observatory-incident-analysis)
-Investigação de incidente via capturas PCAP no Wireshark: topologia, inventário de ativos e linha do tempo.
-<br>
-`forensics` `wireshark` `incident-response`
-
+<h3 align="center"><a href="https://github.com/GustavoLopreto/network-observatory-incident-analysis">network-observatory</a></h3>
+<p align="center">Investigação de incidente via capturas PCAP: topologia, inventário de ativos e linha do tempo.</p>
+<p align="center"><code>forensics</code> · <code>wireshark</code> · <code>pcap</code></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### [hardware-offensive-security](https://github.com/GustavoLopreto/hardware-offensive-security)
-Segurança ofensiva com hardware (Bash Bunny e WiFi Pineapple): payloads HID/BadUSB e análise wireless.
-<br>
-`red-team` `badusb` `wifi`
-
+<h3 align="center"><a href="https://github.com/GustavoLopreto/hardware-offensive-security">hardware-offensive-security</a></h3>
+<p align="center">Payloads HID/BadUSB com Bash Bunny e análise de redes sem fio com WiFi Pineapple.</p>
+<p align="center"><code>red-team</code> · <code>badusb</code> · <code>wireless</code></p>
 </td>
 <td width="50%" valign="top">
-
-### [ctf-writeups](https://github.com/GustavoLopreto/ctf-writeups)
-Writeups de CTF com foco em metodologia: SQL Injection, bypass de autenticação, colisão de hash.
-<br>
-`ctf` `web-security` `writeups`
-
+<h3 align="center"><a href="https://github.com/GustavoLopreto/ctf-writeups">ctf-writeups</a></h3>
+<p align="center">Writeups de CTF com foco em metodologia: SQL Injection, bypass de auth, colisão de hash.</p>
+<p align="center"><code>ctf</code> · <code>web-security</code> · <code>writeups</code></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### [python-port-scanner](https://github.com/GustavoLopreto/python-port-scanner)
-Scanner de portas TCP em Python, do zero: de porta única a multithread com banner grabbing e relatório.
-<br>
-`python` `networking` `sockets`
-
+<h3 align="center"><a href="https://github.com/GustavoLopreto/python-port-scanner">python-port-scanner</a></h3>
+<p align="center">Scanner de portas TCP do zero: multithread com banner grabbing e relatório.</p>
+<p align="center"><code>python</code> · <code>networking</code> · <code>sockets</code></p>
 </td>
 <td width="50%" valign="top">
-
-### [digital-security-handbook-vozes-periferias](https://github.com/GustavoLopreto/digital-security-handbook-vozes-periferias)
-Manual de segurança digital acessível para pequenas empreendedoras: MFA, senhas, backup, engenharia social.
-<br>
-`education` `security-awareness` `digital-inclusion`
-
+<h3 align="center"><a href="https://github.com/GustavoLopreto/digital-security-handbook-vozes-periferias">digital-security-handbook</a></h3>
+<p align="center">Manual de segurança digital acessível para pequenas empreendedoras.</p>
+<p align="center"><code>education</code> · <code>awareness</code> · <code>inclusion</code></p>
 </td>
 </tr>
 </table>
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
-
-## `> cat formacao.txt` &nbsp; Formação
-
-**Segurança Cibernética** — SENAI de São Caetano do Sul
 <br>
-Previsão de conclusão: Dezembro/2027
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
 
-## `> stats --me` &nbsp; GitHub Stats
+<br>
+
+<h2 align="center">Stats</h2>
+
+<br>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GustavoLopreto&show_icons=true&count_private=true&bg_color=0c0f2b&title_color=22d3ee&icon_color=f472b6&text_color=e2e8f0&border_color=22d3ee&hide_title=false&rank_icon=github" alt="GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLopreto&layout=compact&bg_color=0c0f2b&title_color=22d3ee&icon_color=f472b6&text_color=e2e8f0&border_color=22d3ee&langs_count=8" alt="Top Languages">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GustavoLopreto&show_icons=true&count_private=true&bg_color=050505&title_color=e0e0e0&icon_color=808080&text_color=a0a0a0&border_color=1a1a1a&hide_title=false&rank_icon=github" alt="GitHub Stats">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLopreto&layout=compact&bg_color=050505&title_color=e0e0e0&icon_color=808080&text_color=a0a0a0&border_color=1a1a1a&langs_count=8" alt="Top Languages">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoLopreto&background=0c0f2b&border=22d3ee&stroke=22d3ee&ring=f472b6&fire=fcd34d&currStreakNum=f8fafc&currStreakLabel=22d3ee&sideNums=f8fafc&sideLabels=e2e8f0&dates=94a3b8" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoLopreto&background=050505&border=1a1a1a&stroke=1a1a1a&ring=808080&fire=e0e0e0&currStreakNum=e0e0e0&currStreakLabel=808080&sideNums=e0e0e0&sideLabels=606060&dates=505050" alt="GitHub Streak">
 </p>
+
+<br>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
 
-## `> cat contato.txt` &nbsp; Contato
+<br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gustavo-lopreto"><img src="https://img.shields.io/badge/LinkedIn-gustavo--lopreto-22d3ee?style=for-the-badge&labelColor=0c0f2b&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
-  <a href="mailto:gustavolopretoferreira@gmail.com"><img src="https://img.shields.io/badge/Email-gustavolopretoferreira-22d3ee?style=for-the-badge&labelColor=0c0f2b&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=22d3ee&height=60&section=footer" alt="" width="100%">
+  <img src="https://komarev.com/ghpvc/?username=GustavoLopreto&style=flat-square&color=1a1a1a&label=views" alt="Profile views">
 </p>
